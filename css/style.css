@@ -1,0 +1,24 @@
+/* elment selector */
+body {
+    background-color: #FFA6A6;
+    color: black;
+    font-family: verdana;
+    /* untuk variasi jenis text */
+}
+
+.txt-center {
+}
+
+.txt-center{text-align: center;}
+/* letak huruf */
+.bg-warning {background-color: orange; border-radius: 20px;}
+/* misal  border-radius: 20px; gini aja jadi seluruh sisi jadi 20px
+tapi kalau border-radius: 20px 0px 20px 0px; ada 4 px jadi tiap sisi itu beda2 radius lengkungannya*/
+/* border radius untuk Slengkungan di ujung border */
+/* untuk bg, warning itu biasanya nama untng bg kuning */
+.txt-black {color: black;}
+/* untuk wrna text */
+.p-1 {padding: 10px;}
+/* padding itu sisi dalam border text */
+.m-1 {margin: 100px;}
+/* margin itu sisi luar border text */
